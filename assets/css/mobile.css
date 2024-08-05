@@ -1,0 +1,15 @@
+@media screen and (min-width: 451px) and (max-width: 768px) {
+    .input-pesquisar {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .input-pesquisar {
+        width: 300px;
+    }
+
+    .logo {
+        width: 180px;
+    }
+}
